@@ -1,0 +1,21 @@
+body {
+	width: 70%;
+	margin: 0 auto;
+}
+
+h1 {
+	margin-bottom: 0px;
+}
+
+table, td, th {
+	border: 1px solid black;
+}
+
+.disclaimer {
+	margin: 0px;
+}
+
+.tablehead {
+	text-align: center;
+	font-weight: thick;
+}
